@@ -1,0 +1,204 @@
+{
+  "Header": {
+    "title": "Kota Hostels",
+    "paragraph": "Your Haven for Academic Success"
+  },
+  "About": {
+    "paragraph": "At Kota Hostels, we understand the pivotal role a conducive living environment plays in shaping academic success. Our mission is to provide students with a tranquil atmosphere where they can focus, grow, and excel in their studies. Our vision is to be the preferred choice for students seeking accommodation in Kota.",
+    "Why": [
+      "Peaceful and conducive living environment",
+      "Dedicated to student well-being and academic success",
+      "Comfortable and spacious accommodations",
+      "Round-the-clock security for peace of mind"
+    ],
+    "Why2": [
+      "High-speed internet and study-friendly facilities",
+      "Proximity to major educational institutions",
+      "Vibrant community fostering growth and support",
+      "Nutritious meals provided"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Enlarge",
+      "largeImage": "img/portfolio/Hostel1-small.png",
+      "smallImage": "img/portfolio/Hostel1-small.png"
+    },
+    {
+      "title": "Enlarge",
+      "largeImage": "img/portfolio/Hostel4-small.jpegg",
+      "smallImage": "img/portfolio/Hostel4-small.jpeg"
+    },
+    {
+      "title": "Enlarge",
+      "largeImage": "img/portfolio/Hostel3-small.jpeg",
+      "smallImage": "img/portfolio/Hostel3-small.jpeg"
+    },
+    {
+      "title": "Enlarge",
+      "largeImage": "img/portfolio/Hostel5-small.jpeg",
+      "smallImage": "img/portfolio/Hostel5-small.jpeg"
+    },
+    {
+      "title": "Enlarge",
+      "largeImage": "img/portfolio/Hostel6-small.jpeg",
+      "smallImage": "img/portfolio/Hostel6-small.jpeg"
+    },
+    {
+      "title": "Enlarge",
+      "largeImage": "img/portfolio/Hostel7-small.jpeg",
+      "smallImage": "img/portfolio/Hostel7-small.jpeg"
+    },
+    {
+      "title": "Enlarge",
+      "largeImage": "img/portfolio/Hostel8-small.jpeg",
+      "smallImage": "img/portfolio/Hostel8-small.jpeg"
+    },
+    {
+      "title": "Enlarge",
+      "largeImage": "img/portfolio/Hostel9-small.jpeg",
+      "smallImage": "img/portfolio/Hostel9-small.jpeg"
+    },
+    {
+      "title": "Enlarge",
+      "largeImage": "img/portfolio/Hostel10-small.jpeg",
+      "smallImage": "img/portfolio/Hostel10-small.jpeg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+91 8003291237",
+    "email": "+91 9660766784",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Amenities": [
+    {
+      "icon": "fa fa-hotel",
+      "title": "Housekeeping",
+      "text": "Our dedicated team ensures a clean and tidy environment."
+    },
+    {
+      "icon": "fa fa-wifi",
+      "title": "Fast Internet",
+      "text": "Stay connected with high-speed internet for your academic needs."
+    },
+    {
+      "icon": "fa fa-glass",
+      "title": "RO Drinking Water",
+      "text": "Enjoy clean and safe drinking water with our RO system."
+    },
+    {
+      "icon": "fa fa-cutlery",
+      "title": "Food",
+      "text": "Nourish yourself with nutritious meals prepared by our chefs."
+    },
+    {
+      "icon": "fa fa-send",
+      "title": "Laundry",
+      "text": "Enjoy on-site laundry facilities for your convenience."
+    },
+    {
+      "icon": "fa fa-fire-extinguisher",
+      "title": "Fire Safety",
+      "text": "Our hostels are equipped with state-of-the-art fire safety systems."
+    },
+    {
+      "icon": "fa fa-medkit",
+      "title": "Security and Safety",
+      "text": "CCTV cameras in common areas ensure your safety."
+    },
+    {
+      "icon": "fa fa-random",
+      "title": "Others",
+      "text": "Air-Conditioning (AC), Bathroom - Attached  "
+    }
+  ]
+}
